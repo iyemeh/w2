@@ -1,0 +1,508 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.8.31)  17 JAN 2022 14:01
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Paper.tex
+(./Paper.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06> (./IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen134
+\@IEEEtrantmpdimenB=\dimen135
+\@IEEEtrantmpdimenC=\dimen136
+\@IEEEtrantmpcountA=\count167
+\@IEEEtrantmpcountB=\count168
+\@IEEEtrantmpcountC=\count169
+\@IEEEtrantmptoksA=\toks15
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 5
+03.
+(c:/texlive/2020/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen137
+-- This is a 12 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen138
+\CLASSINFOnormalsizeunitybaselineskip=\dimen139
+\IEEEnormaljot=\dimen140
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <14> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <22> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <22> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+\IEEEquantizedlength=\dimen141
+\IEEEquantizedlengthdiff=\dimen142
+\IEEEquantizedtextheightdiff=\dimen143
+\IEEEilabelindentA=\dimen144
+\IEEEilabelindentB=\dimen145
+\IEEEilabelindent=\dimen146
+\IEEEelabelindent=\dimen147
+\IEEEdlabelindent=\dimen148
+\IEEElabelindent=\dimen149
+\IEEEiednormlabelsep=\dimen150
+\IEEEiedmathlabelsep=\dimen151
+\IEEEiedtopsep=\skip47
+\c@section=\count170
+\c@subsection=\count171
+\c@subsubsection=\count172
+\c@paragraph=\count173
+\c@IEEEsubequation=\count174
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\c@figure=\count175
+\c@table=\count176
+\@IEEEeqnnumcols=\count177
+\@IEEEeqncolcnt=\count178
+\@IEEEsubeqnnumrollback=\count179
+\@IEEEquantizeheightA=\dimen152
+\@IEEEquantizeheightB=\dimen153
+\@IEEEquantizeheightC=\dimen154
+\@IEEEquantizeprevdepth=\dimen155
+\@IEEEquantizemultiple=\count180
+\@IEEEquantizeboxA=\box45
+\@IEEEtmpitemindent=\dimen156
+\IEEEPARstartletwidth=\dimen157
+\c@IEEEbiography=\count181
+\@IEEEtranrubishbin=\box46
+)
+** ATTENTION: Overriding command lockouts (line 3).
+(c:/texlive/2020/texmf-dist/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+(c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip50
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2020/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen158
+))
+(c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen159
+)
+(c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count182
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count183
+\leftroot@=\count184
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count185
+\DOTSCASE@=\count186
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen160
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count187
+\c@MaxMatrixCols=\count188
+\dotsspace@=\muskip16
+\c@parentequation=\count189
+\dspbrk@lvl=\count190
+\tag@help=\toks17
+\row@=\count191
+\column@=\count192
+\maxfields@=\count193
+\andhelp@=\toks18
+\eqnshift@=\dimen161
+\alignsep@=\dimen162
+\tagshift@=\dimen163
+\tagwidth@=\dimen164
+\totwidth@=\dimen165
+\lineht@=\dimen166
+\@envbody=\toks19
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+(c:/texlive/2020/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(c:/texlive/2020/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(c:/texlive/2020/texmf-dist/tex/latex/algorithms/algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+(c:/texlive/2020/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count194
+\float@exts=\toks21
+\float@box=\box49
+\@float@everytoks=\toks22
+\@floatcapt=\box50
+)
+(c:/texlive/2020/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\@float@every@algorithm=\toks23
+\c@algorithm=\count195
+)
+(c:/texlive/2020/texmf-dist/tex/latex/algorithms/algorithmic.sty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+
+(c:/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks24
+)
+\c@ALC@unique=\count196
+\c@ALC@line=\count197
+\c@ALC@rem=\count198
+\c@ALC@depth=\count199
+\ALC@tlm=\skip53
+\algorithmicindent=\skip54
+)
+(c:/texlive/2020/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(c:/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(c:/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(c:/texlive/2020/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks25
+\thm@bodyfont=\toks26
+\thm@headfont=\toks27
+\thm@notefont=\toks28
+\thm@headpunct=\toks29
+\thm@preskip=\skip55
+\thm@postskip=\skip56
+\thm@headsep=\skip57
+\dth@everypar=\toks30
+)
+(c:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+)
+\Gin@req@height=\dimen167
+\Gin@req@width=\dimen168
+)
+(c:/texlive/2020/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip58
+\multirow@cntb=\count266
+\multirow@dima=\skip59
+\bigstrutjot=\dimen169
+)
+(c:/texlive/2020/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen170
+\lightrulewidth=\dimen171
+\cmidrulewidth=\dimen172
+\belowrulesep=\dimen173
+\belowbottomsep=\dimen174
+\aboverulesep=\dimen175
+\abovetopsep=\dimen176
+\cmidrulesep=\dimen177
+\cmidrulekern=\dimen178
+\defaultaddspace=\dimen179
+\@cmidla=\count267
+\@cmidlb=\count268
+\@aboverulesep=\dimen180
+\@belowrulesep=\dimen181
+\@thisruleclass=\count269
+\@lastruleclass=\count270
+\@thisrulewidth=\dimen182
+)
+(c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count271
+\l__pdf_internal_box=\box51
+)
+(./Paper.aux)
+\openout1 = `Paper.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+
+-- Lines per column: 32 (exact).
+(c:/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count272
+\scratchdimen=\dimen183
+\scratchbox=\box52
+\nofMPsegments=\count273
+\nofMParguments=\count274
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count275
+\MPscratchDim=\dimen184
+\MPnumerator=\count276
+\makeMPintoPDFobject=\count277
+\everyMPtoPDFconversion=\toks32
+) (c:/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(c:/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+)) [1{c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
+<Two Beams.jpg, id=15, 452.28975pt x 363.15675pt>
+File: Two Beams.jpg Graphic file (type jpg)
+<use Two Beams.jpg>
+Package pdftex.def Info: Two Beams.jpg  used on input line 62.
+(pdftex.def)             Requested size: 171.87189pt x 138.00099pt.
+ [4 <./Two Beams.jpg>]
+<Flow Chart.jpg, id=19, 752.8125pt x 401.0985pt>
+File: Flow Chart.jpg Graphic file (type jpg)
+<use Flow Chart.jpg>
+Package pdftex.def Info: Flow Chart.jpg  used on input line 89.
+(pdftex.def)             Requested size: 210.78606pt x 112.30681pt.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 97.
+
+ (c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 97.
+
+
+(c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [5 <./Flow Chart.jpg>]
+
+Package amsmath Warning: Foreign command \over;
+(amsmath)                \frac or \genfrac should be used instead
+(amsmath)                 on input line 120.
+
+[6] [7] [8]
+
+Package amsmath Warning: Foreign command \atop;
+(amsmath)                \frac or \genfrac should be used instead
+(amsmath)                 on input line 262.
+
+[9] [10] [11]
+<UT.jpg, id=56, 454.0965pt x 341.47575pt>
+File: UT.jpg Graphic file (type jpg)
+<use UT.jpg>
+Package pdftex.def Info: UT.jpg  used on input line 341.
+(pdftex.def)             Requested size: 252.94499pt x 190.20906pt.
+ [12]
+<Linear Wipe.jpg, id=60, 382.42876pt x 298.716pt>
+File: Linear Wipe.jpg Graphic file (type jpg)
+<use Linear Wipe.jpg>
+Package pdftex.def Info: Linear Wipe.jpg  used on input line 357.
+(pdftex.def)             Requested size: 252.94499pt x 197.57706pt.
+ [13 <./UT.jpg>]
+<Linear Wipe Fails.jpg, id=65, 400.49625pt x 325.215pt>
+File: Linear Wipe Fails.jpg Graphic file (type jpg)
+<use Linear Wipe Fails.jpg>
+Package pdftex.def Info: Linear Wipe Fails.jpg  used on input line 373.
+(pdftex.def)             Requested size: 252.94499pt x 205.40262pt.
+ [14 <./Linear Wipe.jpg>] [15 <./Linear Wipe Fails.jpg>]
+<GA.jpg, id=72, 464.937pt x 438.438pt>
+File: GA.jpg Graphic file (type jpg)
+<use GA.jpg>
+Package pdftex.def Info: GA.jpg  used on input line 429.
+(pdftex.def)             Requested size: 252.94499pt x 238.53253pt.
+ [16] [17 <./GA.jpg>]
+
+LaTeX Warning: Citation `tharmarasa20' on page 18 undefined on input line 448.
+
+[18]
+<targetmotion_pg_pn.png, id=82, 667.293pt x 460.119pt>
+File: targetmotion_pg_pn.png Graphic file (type png)
+<use targetmotion_pg_pn.png>
+Package pdftex.def Info: targetmotion_pg_pn.png  used on input line 472.
+(pdftex.def)             Requested size: 252.94499pt x 174.41174pt.
+ [19]
+<epcrlbparticles.png, id=88, 636.9396pt x 296.307pt>
+File: epcrlbparticles.png Graphic file (type png)
+<use epcrlbparticles.png>
+Package pdftex.def Info: epcrlbparticles.png  used on input line 499.
+(pdftex.def)             Requested size: 252.94499pt x 117.6707pt.
+ [20 <./targetmotion_pg_pn.png>]
+Overfull \hbox (6.408pt too wide) in paragraph at lines 517--527
+ [][] 
+ []
+
+<Trajectories.jpg, id=93, 702.625pt x 526.96875pt>
+File: Trajectories.jpg Graphic file (type jpg)
+<use Trajectories.jpg>
+Package pdftex.def Info: Trajectories.jpg  used on input line 531.
+(pdftex.def)             Requested size: 252.9448pt x 189.7086pt.
+[21 <./epcrlbparticles.png>]
+<Worst PCRLB.jpg, id=98, 702.625pt x 526.96875pt>
+File: Worst PCRLB.jpg Graphic file (type jpg)
+<use Worst PCRLB.jpg>
+Package pdftex.def Info: Worst PCRLB.jpg  used on input line 544.
+(pdftex.def)             Requested size: 238.88933pt x 179.16699pt.
+
+Overfull \hbox (4.01183pt too wide) in paragraph at lines 544--546
+ [][] 
+ []
+
+<Worst PCRLB_large.jpg, id=99, 702.625pt x 526.96875pt>
+File: Worst PCRLB_large.jpg Graphic file (type jpg)
+<use Worst PCRLB_large.jpg>
+Package pdftex.def Info: Worst PCRLB_large.jpg  used on input line 549.
+(pdftex.def)             Requested size: 238.88933pt x 179.16699pt.
+
+Overfull \hbox (4.01183pt too wide) in paragraph at lines 549--551
+ [][] 
+ []
+
+[22 <./Trajectories.jpg>] [23 <./Worst PCRLB.jpg> <./Worst PCRLB_large.jpg>]
+<IRF.jpg, id=107, 702.625pt x 526.96875pt>
+File: IRF.jpg Graphic file (type jpg)
+<use IRF.jpg>
+Package pdftex.def Info: IRF.jpg  used on input line 624.
+(pdftex.def)             Requested size: 252.9448pt x 189.7086pt.
+<Worst RMSE.jpg, id=108, 702.625pt x 526.96875pt>
+File: Worst RMSE.jpg Graphic file (type jpg)
+<use Worst RMSE.jpg>
+Package pdftex.def Info: Worst RMSE.jpg  used on input line 646.
+(pdftex.def)             Requested size: 252.9448pt x 189.7086pt.
+
+[24] [25 <./IRF.jpg> <./Worst RMSE.jpg>]
+<RMSE3.jpg, id=116, 702.625pt x 526.96875pt>
+File: RMSE3.jpg Graphic file (type jpg)
+<use RMSE3.jpg>
+Package pdftex.def Info: RMSE3.jpg  used on input line 678.
+(pdftex.def)             Requested size: 252.9448pt x 189.7086pt.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 6
+84.
+
+(c:/texlive/2020/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+) [26 <./RMSE3.jpg>]
+(./Paper.bbl [27] [28]) [29] (./Paper.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4341 strings out of 480608
+ 61702 string characters out of 5907536
+ 310225 words of memory out of 5000000
+ 20142 multiletter control sequences out of 15000+600000
+ 578423 words of font info for 115 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 30i,10n,37p,1959b,283s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2020/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2020/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmbx6.pfb><c:/texlive/2020/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmbx8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmex10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmmi12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb
+><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texli
+ve/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2020/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2020/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmsy10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmsy6.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/c
+msy8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb><
+c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb><c:/t
+exlive/2020/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2020/texmf-
+dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/u
+rw/times/utmri8a.pfb>
+Output written on Paper.pdf (29 pages, 785974 bytes).
+PDF statistics:
+ 188 PDF objects out of 1000 (max. 8388607)
+ 121 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 71 words of extra memory for PDF output out of 10000 (max. 10000000)
+
